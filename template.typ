@@ -78,7 +78,6 @@
 		}
 		information
 	}
-	pagebreak()
 }
 
 #let myBlock(
