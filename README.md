@@ -1,1 +1,3 @@
-# LEONUX - MINIMALISTIC TYPST SLIDES (SIMILAR TO LaTeX BEAMER)
+# leonux
+
+Minimalistic typst slides (similar to LaTeX beamer)
