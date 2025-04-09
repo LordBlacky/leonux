@@ -1,2 +1,1 @@
-# Typst-Minimalist-Slides-Template
-Typst-Minimalist-Slides-Template
+# LEONUX - MINIMALISTIC TYPST SLIDES (SIMILAR TO LaTeX BEAMER)
