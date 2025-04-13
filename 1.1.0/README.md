@@ -5,7 +5,7 @@ Minimalistic typst slides (similar to LaTeX beamer)
 # Quick usage guide
 
 ```typst
-#import "@preview/leonux:1.0.0": *
+#import "@preview/leonux:1.1.0": *
 
 // Setup the format and enter personal information
 #show: setup.with(
